@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lowest Path</string>
+    <string name="enter_matrix">Enter matrix</string>
+    <string name="find_lowest_path">Find Lowest Path</string>
+    <string name="invalid_matrix">Invalid matrix, Please try again!</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="clear">Clear</string>
+</resources>
